@@ -6,14 +6,12 @@ class Person
     @name
   end 
   
-  def initialize (job)
+  def job
     @job= job
   end 
   def job
     @job
   end
-  def job= ()
-end
 
 beyonce= Person.new 
 beyonce.name= (beyonce)
