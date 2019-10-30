@@ -22,14 +22,14 @@ class Dog
 
 
 #fido=Dog.new 
-fido.name= ("Fido")
-fido.name
+#fido.name= ("Fido")
+#fido.name
 
  
 
-snoopy= Dog.new 
-snoopy.breed= ("Beagle")
-snoopy.breed
+#snoopy= Dog.new 
+#snoopy.breed= ("Beagle")
+#snoopy.breed
 
 
 
